@@ -1,0 +1,36 @@
+body {
+    background-color: #dfe4ea;
+    margin: 20px 50px 0px 50px;
+    width: 90%;
+}
+
+h1 {
+    background-color: #2f3542;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+span {
+    color: #eccc68;
+}
+
+h2 {
+    color: #1B1464;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    font-style: italic;
+}
+
+
+h4 {
+    color: #1B1464;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    height: 60px;
+    
+}
